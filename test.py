@@ -9,6 +9,7 @@ class TestDemo:
         assert 1 == 21
 
     def test_3(self):
+        print('test_3')
         assert 1 == 21
 
     def test_4(self):
