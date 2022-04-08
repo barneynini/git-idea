@@ -13,6 +13,7 @@ class TestDemo:
         assert 1 == 21
 
     def test_4(self):
+        print('hi,hot-fix')
         assert 1 == 21
 
 
