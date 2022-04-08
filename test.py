@@ -14,6 +14,7 @@ class TestDemo:
 
     def test_4(self):
         print('test_4')
+        print('hello')
         assert 1 == 21
 
 
