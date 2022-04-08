@@ -11,6 +11,9 @@ class TestDemo:
     def test_3(self):
         assert 1 == 21
 
+    def test_4(self):
+        assert 1 == 21
+
 
 if __name__ == '__main__':
     pytest.main(['-sq', 'test.py'])
