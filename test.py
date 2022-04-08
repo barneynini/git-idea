@@ -17,7 +17,7 @@ class TestDemo:
         print('hello')
         print('hi,hot-fix')
         print('12345')
-        print('pull')
+        print('pull2')
         assert 1 == 21
 
 
